@@ -1,0 +1,2 @@
+https://www.oracle.com/tr/java/technologies/javase/javase8-archive-downloads.html
+download and unarchive java
