@@ -2,7 +2,7 @@
 <p align="center">
   <img width="150" height="150" alt="DRModEngine-icon" src="https://github.com/user-attachments/assets/9cff6b1d-2c49-4401-87fe-4b16eee8f70c" />
 </p>
-<h3>An automated, portable, and smart mod loader for Dungeon Rampage.</h3>
+<h3>An automated, portable mod loader for Dungeon Rampage.</h3>
 
 This tool allows users to inject ActionScript (.as) code and assets into the game dynamically. It utilizes DLL Hijacking for seamless integration with Steam and JPEXS (FFDec) for realtime SWF modification.
 
